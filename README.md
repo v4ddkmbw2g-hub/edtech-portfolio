@@ -143,7 +143,7 @@ hoping.
 | First version of the checker | 15,764 of 87,119 (18.1%) |
 | After three rounds of adversarial review | **57 of 87,119 (0.07%)** |
 
-A 277× reduction. **81 regression tests**, every one a word that beat an earlier
+A 277× reduction. **87 regression tests**, every one a word that beat an earlier
 version.
 
 **123 of the 128 lessons now have a decodable story and a printable four-page
@@ -198,7 +198,7 @@ prints as a report for a conference.
 | [`science-assessment-tool/`](science-assessment-tool/) | Six skills, including describing the properties of materials and living things, and planning, building and testing a design. |
 | [`social-studies-assessment-tool/`](social-studies-assessment-tool/) | Six categories, including using maps and globes, identifying roles in a community, and taking part in shared research. Exports as PDF, CSV or JSON. |
 | [`social-emotional-assessment-tool/`](social-emotional-assessment-tool/) | Six skills: routines and directions, self-regulation, empathy, persistence, conflict resolution, and asking questions. |
-| [`factor-field/`](factor-field/) | Times-tables practice tool. |
+| [`factor-field/`](factor-field/) | Times-tables practice, plus a Show Me How tutor: one big stacked problem, and a hand works it a column at a time, carrying and borrowing, narrated aloud in English or Spanish. |
 
 ### For families
 

@@ -14,7 +14,7 @@ written down.
 
 **The 128 decodables went well because they had ONE dimension and a rulebook.**
 Decodability. It was defined in `sound-list.json`, implemented in
-`audit_passage.py`, and given **71 regression tests before any content existed**.
+`audit_passage.py`, and given **71 regression tests before any content existed** (87 today).
 Every sheet went through the same gate, and the gate had been proven to say no.
 
 **Form B went badly because it had SIX dimensions and a rulebook for one.**

@@ -296,7 +296,7 @@ which one, and the run will stop rather than pass quietly.
   **the lesson order is correct**, and 17 entries had typos, now corrected in the
   open in `CURRICULUM_CORRECTIONS`.
 - **The auditor.** `audit_passage.py` checks a passage word by word and did not
-  write it. 81 regression tests, each one a word that beat an earlier version.
+  write it. 87 regression tests, each one a word that beat an earlier version.
   Adversarial agents cut wrongly-passing words at Lesson 41 from 18% of the
   dictionary to 0.07%.
 - **The word bank.** 857 hand-picked K-2 words plus generated inflections, each

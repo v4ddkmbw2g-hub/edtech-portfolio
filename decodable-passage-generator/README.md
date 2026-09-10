@@ -185,7 +185,7 @@ is not yet tight enough** — from Lesson 99 the syllable limit is removed
 entirely because affix lessons build long words. That is the next thing to
 narrow.
 
-`python3 audit_passage.py --selftest` runs all 71 cases as regression tests.
+`python3 audit_passage.py --selftest` runs all 87 cases as regression tests.
 
 ## What it still cannot do
 

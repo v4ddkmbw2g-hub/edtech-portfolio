@@ -129,7 +129,7 @@ is a one- or two-character slip off that chart.
 A **277× reduction**, and the 57 survivors are almost all legitimate — *digs*,
 *dogs*, *kids*, *mats*, *taps*, *quit*, *quiz*.
 
-**71 regression tests**, every one a word that beat an earlier version.
+**87 regression tests**, every one a word that beat an earlier version.
 
 ---
 
@@ -166,7 +166,7 @@ packet to 4, which was the correct outcome.
 | Component | State |
 |---|---|
 | Sound list, 128 lessons, verified against UFLI | Built |
-| Deterministic auditor, 71 regression tests | Built |
+| Deterministic auditor, 87 regression tests | Built |
 | Page-fit checker | Built |
 | Two skills encoding the rules and the loop | Built |
 | Human-readable review page | Built |
@@ -186,7 +186,7 @@ limitations and the 31 word-bank lessons.
 python3 build_sound_list.py                    # rebuild the rulebook
 python3 audit_passage.py 41 "Sam has a pig."   # check text against a lesson
 python3 audit_passage.py 41 --html sheet.html  # check a built sheet
-python3 audit_passage.py --selftest            # 71 regression tests
+python3 audit_passage.py --selftest            # 87 regression tests
 python3 check-pages.py                         # does every sheet fit on paper
 python3 build_review_page.py                   # regenerate the review page
 ```
